@@ -14,7 +14,6 @@ public class Main {
         dayS [4] = 12;
         dayS [5] = 10;
         dayS [6] = 9;
-        int day = dayS[0];
         for (int i=0 ; i<dayS.length;i++) {
             if (i==0){ System.out.println("Mon "+"\n"+dayS[i] +" hour"); }
             if (i==1){ System.out.println("Tu "+"\n" +dayS[i] +" hour");}
